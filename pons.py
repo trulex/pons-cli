@@ -14,7 +14,7 @@ def print_translations(translations):
 
 def translate(first_lang, second_lang, search_term):
     translation = translator.translate(first_lang, second_lang, search_term)
-    print_translations((translation))
+    print_translations(translation)
 
 
 def print_help():

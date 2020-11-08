@@ -11,3 +11,6 @@ Obtain the secret by registering for PONS API.
 
 ## Usage
 `python pons.py`
+
+## Examples
+`python pons.py de en house`

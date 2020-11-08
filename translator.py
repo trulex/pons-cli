@@ -1,16 +1,11 @@
 import json
 from bs4 import BeautifulSoup
+import pons_api
 
 
 def translate(first_lang, second_lang, search_term):
-    # call api
+    response = pons_api.get_translations(first_lang, second_lang, search_term)
 
-
-    # parse response
-    with open('test/response.json') as f:
-        read_data = f.read()
-
-    response = json.loads(read_data)
     roms = response[0]['hits'][0]['roms']
     headwords = []
     for rom in roms:
