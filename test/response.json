@@ -1,0 +1,539 @@
+[
+  {
+    "lang": "en",
+    "hits": [
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "house",
+            "headword_full": "house <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span> <span class='phonetics'>[haʊs]</span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">house</strong>",
+                    "target": "hiša <span class=\"genus\"><acronym title=\"ženski spol\">ž. spol</acronym></span>"
+                  },
+                  {
+                    "source": "<span class=\"example\">Sam&#39;s playing at Mary&#39;s <strong class=\"tilde\">house</strong></span>",
+                    "target": "Sam se igra pri Mary doma"
+                  },
+                  {
+                    "source": "<span class=\"full_collocation\"><strong class=\"tilde\">house</strong> of cards</span>",
+                    "target": "hišica iz kart"
+                  },
+                  {
+                    "source": "<span class=\"full_collocation\">the <strong class=\"tilde\">House</strong> of Windsor</span>",
+                    "target": "dinastija Windsor"
+                  },
+                  {
+                    "source": "<span class=\"full_collocation\">to eat <acronym title=\"somebody\">sb</acronym> out of <strong class=\"tilde\">house</strong> and home</span>",
+                    "target": "spraviti koga na beraško palico"
+                  },
+                  {
+                    "source": "<span class=\"full_collocation\">to play to a full <strong class=\"tilde\">house</strong></span> <span class=\"topic\"><acronym title=\"gledališče\">GLED.</acronym></span>",
+                    "target": "igrati pred razprodano dvorano"
+                  },
+                  {
+                    "source": "<span class=\"full_collocation\">in <strong class=\"tilde\">house</strong></span>",
+                    "target": "domača produkcija"
+                  },
+                  {
+                    "source": "<span class=\"full_collocation\">on the <strong class=\"tilde\">house</strong></span>",
+                    "target": "na račun hiše"
+                  },
+                  {
+                    "source": "<span class=\"idiom_proverb\">to go all <span class=\"ow\">around</span> the <strong class=\"tilde\">houses</strong></span>",
+                    "target": "iti okrog riti v žep"
+                  },
+                  {
+                    "source": "<span class=\"idiom_proverb\">to get on like a <strong class=\"tilde\">house</strong> on <span class=\"ow\">fire</span> </span>",
+                    "target": "odlično se razumeti"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "headword": "house",
+            "headword_full": "house <span class=\"wordclass\"><acronym title=\"pridevnik\">PRID.</acronym></span> <span class='phonetics'>[haʊs]</span>",
+            "wordclass": "pridevnik in prislov",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">house</strong>",
+                    "target": "hišen"
+                  },
+                  {
+                    "source": "<span class=\"full_collocation\"><strong class=\"tilde\">house</strong> red/white</span>",
+                    "target": "rdeče/belo hišno vino"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "headword": "house",
+            "headword_full": "house <span class=\"wordclass\"><acronym title=\"glagol\">GLAG.</acronym></span> <span class=\"verbclass\"><acronym title=\"prehoden glagol\">preh. glag.</acronym></span> <span class='phonetics'>[haʊz]</span> <span class=\"grammatical_construction\">to <strong class=\"tilde\">house</strong> <acronym title=\"somebody\">sb</acronym></span>",
+            "wordclass": "prehodni glagol",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">house</strong>",
+                    "target": "nastaniti koga"
+                  },
+                  {
+                    "source": "<strong class=\"headword\">house</strong>",
+                    "target": "namestiti koga"
+                  },
+                  {
+                    "source": "<span class=\"grammatical_construction\">to <strong class=\"tilde\">house</strong> <acronym title=\"something\">sth</acronym></span>",
+                    "target": "vsebovati kaj"
+                  },
+                  {
+                    "source": "<span class=\"grammatical_construction\">to <strong class=\"tilde\">house</strong> <acronym title=\"something\">sth</acronym></span> <span class=\"sense\">(encase)</span>",
+                    "target": "obdajati kaj"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈcus·tom(s) house",
+            "headword_full": "ˈcus<span class=\"separator\">·</span>tom(s) house <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">custom(s) house</strong>",
+                    "target": "carinarnica <span class=\"genus\"><acronym title=\"ženski spol\">ž. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "house-to-ˈhouse",
+            "headword_full": "house-to-ˈhouse <span class=\"wordclass\"><acronym title=\"pridevnik\">PRID.</acronym></span> <span class=\"wordclass\"><acronym title=\"prislov\">PRISL.</acronym></span>",
+            "wordclass": "pridevnik in prislov",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">house-to-house</strong>",
+                    "target": "od hiše do hiše"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈacid house",
+            "headword_full": "ˈacid house <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span> <span class=\"info\">no <acronym title=\"množina\">mn.</acronym></span> <span class=\"topic\"><acronym title=\"glasba\">GLAS.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">acid house</strong>",
+                    "target": "acid house <span class=\"genus\"><acronym title=\"moški spol\">m. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "aˈpart·ment build·ing",
+            "headword_full": "aˈpart<span class=\"separator\">·</span>ment build<span class=\"separator\">·</span>ing <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span> <span class=\"region\"><acronym title=\"ameriška angleščina\" class=\"Am\">am. angl.</acronym></span>, <span class=\"headword\">aˈpart<span class=\"separator\">·</span>ment house</span> <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span> <span class=\"region\"><acronym title=\"ameriška angleščina\" class=\"Am\">am. angl.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">apartment building</strong>",
+                    "target": "stolpnica <span class=\"genus\"><acronym title=\"ženski spol\">ž. spol</acronym></span>"
+                  },
+                  {
+                    "source": "<strong class=\"headword\">apartment building</strong> <span class=\"sense\">(with smaller flats)</span>",
+                    "target": "stanovanjski blok <span class=\"genus\"><acronym title=\"moški spol\">m. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈboard·ing house",
+            "headword_full": "ˈboard<span class=\"separator\">·</span>ing house <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">boarding house</strong>",
+                    "target": "penzion <span class=\"genus\"><acronym title=\"moški spol\">m. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈboat house",
+            "headword_full": "ˈboat house <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">boat house</strong>",
+                    "target": "čolnarna <span class=\"genus\"><acronym title=\"ženski spol\">ž. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈchap·ter house",
+            "headword_full": "ˈchap<span class=\"separator\">·</span>ter house <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">chapter house</strong>",
+                    "target": "kapiteljska dvorana <span class=\"genus\"><acronym title=\"ženski spol\">ž. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈcof·fee house",
+            "headword_full": "ˈcof<span class=\"separator\">·</span>fee house <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">coffee house</strong>",
+                    "target": "kavarna <span class=\"genus\"><acronym title=\"ženski spol\">ž. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈcor·ner house",
+            "headword_full": "ˈcor<span class=\"separator\">·</span>ner house <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">corner house</strong>",
+                    "target": "vogalna hiša <span class=\"genus\"><acronym title=\"ženski spol\">ž. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "coun·cil ˈflat",
+            "headword_full": "coun<span class=\"separator\">·</span>cil ˈflat <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span> <span class=\"region\"><acronym title=\"britanska angleščina\" class=\"Brit\">brit. angl.</acronym></span>, <span class=\"headword\">ˈcoun<span class=\"separator\">·</span>cil house</span> <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span> <span class=\"region\"><acronym title=\"britanska angleščina\" class=\"Brit\">brit. angl.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">council flat</strong>",
+                    "target": "občinsko <span class=\"target\">[<span class=\"or\">or</span> socialno]</span> stanovanje <span class=\"genus\">n</span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "coun·try ˈhouse",
+            "headword_full": "coun<span class=\"separator\">·</span>try ˈhouse <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">country house</strong>",
+                    "target": "podeželski dvorec <span class=\"genus\"><acronym title=\"moški spol\">m. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈfi·nance com·pa·ny",
+            "headword_full": "ˈfi<span class=\"separator\">·</span>nance com<span class=\"separator\">·</span>pa<span class=\"separator\">·</span>ny <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span>, <span class=\"headword\">ˈfi<span class=\"separator\">·</span>nance house</span> <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">finance company</strong>",
+                    "target": "finančna hiša <span class=\"genus\"><acronym title=\"ženski spol\">ž. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈfire house",
+            "headword_full": "ˈfire house <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span> <span class=\"region\"><acronym title=\"ameriška angleščina\" class=\"Am\">am. angl.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">fire house</strong>",
+                    "target": "gasilski dom <span class=\"genus\"><acronym title=\"moški spol\">m. spol</acronym></span>"
+                  },
+                  {
+                    "source": "<strong class=\"headword\">fire house</strong>",
+                    "target": "gasilska postaja <span class=\"genus\"><acronym title=\"ženski spol\">ž. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈholi·day house",
+            "headword_full": "ˈholi<span class=\"separator\">·</span>day house <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span> <span class=\"region\"><acronym title=\"britanska angleščina\" class=\"Brit\">brit. angl.</acronym></span> <span class=\"region\"><acronym title=\"avstralska angleščina\" class=\"Aus\">avstral. angl.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">holiday house</strong>",
+                    "target": "počitniška hiša <span class=\"genus\"><acronym title=\"ženski spol\">ž. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈhouse ar·rest",
+            "headword_full": "ˈhouse ar<span class=\"separator\">·</span>rest <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span> <span class=\"info\">no <acronym title=\"množina\">mn.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">house arrest</strong>",
+                    "target": "hišni pripor <span class=\"genus\"><acronym title=\"moški spol\">m. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈhouse-hunt",
+            "headword_full": "ˈhouse-hunt <span class=\"wordclass\"><acronym title=\"glagol\">GLAG.</acronym></span> <span class=\"verbclass\"><acronym title=\"neprehoden glagol\">nepreh. glag.</acronym></span>",
+            "wordclass": "neprehodni glagol",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">house-hunt</strong>",
+                    "target": "iskati hišo <span class=\"target\">[<span class=\"or\">or</span> stanovanje]</span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈhouse hus·band",
+            "headword_full": "ˈhouse hus<span class=\"separator\">·</span>band <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">house husband</strong>",
+                    "target": "gospodinjec <span class=\"genus\"><acronym title=\"moški spol\">m. spol</acronym></span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈhouse sur·geon",
+            "headword_full": "ˈhouse sur<span class=\"separator\">·</span>geon <span class=\"wordclass\"><acronym title=\"samostalnik\">SAM.</acronym></span> <span class=\"region\"><acronym title=\"britanska angleščina\" class=\"Brit\">brit. angl.</acronym></span>",
+            "wordclass": "samostalnik",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">house surgeon</strong>",
+                    "target": "zdravnik specializant<span class=\"feminine\">(ka)</span> <span class=\"genus\"><acronym title=\"moški spol\">m. spol</acronym></span> <span class=\"genus\">(<acronym title=\"ženski spol\">ž. spol</acronym>)</span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entry",
+        "opendict": false,
+        "roms": [
+          {
+            "headword": "ˈhouse-train",
+            "headword_full": "ˈhouse-train <span class=\"wordclass\"><acronym title=\"glagol\">GLAG.</acronym></span> <span class=\"verbclass\"><acronym title=\"prehoden glagol\">preh. glag.</acronym></span>",
+            "wordclass": "prehodni glagol",
+            "arabs": [
+              {
+                "header": "",
+                "translations": [
+                  {
+                    "source": "<strong class=\"headword\">house-train</strong>",
+                    "target": "<span class=\"explanation\">naučiti domačo žival, da se ne podela v hiši</span>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
